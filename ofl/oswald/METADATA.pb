@@ -7,7 +7,7 @@ fonts {
   name: "Oswald"
   style: "normal"
   weight: 400
-  filename: "Oswald-Regular.ttf"
+  filename: "Oswald[wght].ttf"
   post_script_name: "Oswald-Regular"
   full_name: "Oswald Regular"
   copyright: "Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)"
@@ -21,6 +21,5 @@ subsets: "vietnamese"
 axes {
   tag: "wght"
   min_value: 200.0
-  default_value: 400.0
   max_value: 700.0
 }
